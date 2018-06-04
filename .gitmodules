@@ -1,0 +1,3 @@
+[submodule "sc-hacks"]
+	path = sc-hacks
+	url = git@github.com:iani/sc-hacks.git
